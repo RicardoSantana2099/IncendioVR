@@ -4,15 +4,13 @@ using UnityEngine;
 
 public class Puerta : MonoBehaviour
 {
+    public Animator doorAnimator;
 
-    void Start()
+    private void OnTriggerEnter(Collider other)
     {
-        
-    }
-
-    
-    void Update()
-    {
-        
+        if(other.CompareTag("Player"))
+        {
+            doorAnimator.SetTrigger("OpenDoor");
+        }
     }
 }
