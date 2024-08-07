@@ -4,7 +4,16 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Incendio/MenuPrincipal.unity
+    guid: 868da465be217fd4aae2e38ea25b664b
+  - enabled: 1
+    path: Assets/Incendio/Incendio01.unity
+    guid: a722f910dac62f44f9422844bcfef8a0
+  - enabled: 1
+    path: Assets/Incendio/Creditos.unity
+    guid: ddf1119b51e04d64bae43408ae316800
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 69acb5cb3175a7e4cbe905bbd9e4aa22, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 553b7a240d46c72419229860fd75eb15, type: 2}
