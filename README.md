@@ -9,11 +9,11 @@ Al momento de abrir la aplicación te vas a encontrar en un salon donde van a ve
  -3: Salir
  Usando los controles del oculus quest 2 selecciona algun boton para que este sea interactuable.
 
- -1: Si presionaste jugar, apareceras dentro de un salon de clases cerrado, #PRESIONA EL BOTON
+ -1: Si presionaste jugar, apareceras dentro de un salon de clases cerrado, PRESIONA EL BOTON, a continuación se escuchara la voz de una mujer explicando cuales son los pasos a seguir en caso de un sismo.
 
--Boton Manuales: Te mostrara los manuales que contiene la aplicación y un modelo que muestra como terminara el modelo al cual se siguio el manual.
+-2: Si presionaste creditos, apareceras en una pequeña escuela donde estan los creditos de todas las personas involucradas, para salir es tan facil como presionar el boto enorme que dice "Menu".
 
--Boton Cámara: Abrira la cámara, apunta esta al manual y comenzaran a salir modelos animados que mostraran los pasos a seguir.
+-3: Si presionaste salir, simplemente deviste salir de la App.
 
 
 # Quieres ver mas sobre la APP?
