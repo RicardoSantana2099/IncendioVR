@@ -18,11 +18,16 @@ public class MenuInicial : MonoBehaviour
 
     public void Creditos()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 7);
     }
 
     public void Menu()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 7);
+    }
+
+    public void MenuPrincipal()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 6);
     }
 }
