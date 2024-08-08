@@ -39,10 +39,10 @@ Encuentra la documentación en [IncendioVR/IncendioVR/Assets/Documentación](htt
 
 En caso de alguna duda o sugerencia puedes contactarme en el siguiente correo:
 
-Ricardo(https://www.linkedin.com/in/ricaardo-santana-75738618b/)
+[Ricardo](https://www.linkedin.com/in/ricaardo-santana-75738618b/)
 
 
-Adrian(https://www.linkedin.com/in/adrian-verduzco-79b3b727a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*)
+[Adrian](https://www.linkedin.com/in/adrian-verduzco-79b3b727a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*)
 
 
-Ximena(https://www.linkedin.com/in/ximena-fernanda-hidalgo-hern%C3%A1ndez-7071941b1/)
+[Ximena](https://www.linkedin.com/in/ximena-fernanda-hidalgo-hern%C3%A1ndez-7071941b1/)
