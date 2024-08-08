@@ -2,15 +2,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Puerta : MonoBehaviour
+public class Toalla : MonoBehaviour
 {
-    public Animator doorAnimator;
-
     private void OnTriggerEnter(Collider other)
     {
-        if(other.CompareTag("Player"))
+        if(CompareTag("Player"))
         {
-            doorAnimator.SetTrigger("OpenDoor");
+            gameObject.SetActive(false);
         }
     }
 }
