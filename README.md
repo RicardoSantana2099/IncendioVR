@@ -10,11 +10,11 @@ Al momento de abrir la aplicación hay dos opciones Cámara y Manuales (actualme
 -Boton Cámara: Abrira la cámara, apunta esta al manual y comenzaran a salir modelos animados que mostraran los pasos a seguir.
 
 
-# Prueba la aplicación:
+# Quieres ver mas sobre la APP?
 
-Recuerda que es una aplicación para celular, se encuentra en la siguiente dirección.
+Encuentra el video donde se enseña el funcionamiento de esta aplicación.
 
-[ManualAR/Assets/Aplicación](https://github.com/RicardoSantana2099/ManualAR/tree/a7193495212d3ec589fcce1b93c305de4d8ebbff/ManualAR/Assets/Aplicaci%C3%B3n)
+[Incendio VR](https://youtu.be/wNGTZQ2k82E?si=kiMO9dFxmogfMPBA)
 
 # Usa el manual para que funcione la aplicación:
 
