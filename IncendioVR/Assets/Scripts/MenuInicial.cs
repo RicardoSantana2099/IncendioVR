@@ -23,6 +23,6 @@ public class MenuInicial : MonoBehaviour
 
     public void Menu()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 2);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 7);
     }
 }
