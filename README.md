@@ -4,8 +4,14 @@ Este repositorio esta encargado de almacenar el proyecto de Incendio VR.
 
 # Como funciona:
 Al momento de abrir la aplicación te vas a encontrar en un salon donde van a ver 3 botones.
+
+
  -1: Jugar
+
+ 
  -2: Creditos
+
+ 
  -3: Salir
  Usando los controles del oculus quest 2 selecciona algun boton para que este sea interactuable.
 
@@ -34,5 +40,9 @@ Encuentra la documentación en [IncendioVR/IncendioVR/Assets/Documentación](htt
 En caso de alguna duda o sugerencia puedes contactarme en el siguiente correo:
 
 pacheco2099.working@gmail.com 
+
+
 adrian.verduzco@gmail.com
+
+
 ximenafernandah@gmail.com
